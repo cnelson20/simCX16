@@ -1,3 +1,6 @@
+#cc65 unique stuff
+*.prg
+
 # Prerequisites
 *.d
 
